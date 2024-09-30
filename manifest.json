@@ -1,7 +1,0 @@
-{
-    "name": "Ascension Link Scraper",
-    "id": "github.com/Cxsmo-ai",
-    "version": 1,
-    "permaUrl": "https://raw.githubusercontent.com/Cxsmo-ai/test/refs/heads/main/scrapers.json",
-    "type": "express"
-}
