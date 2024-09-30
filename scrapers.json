@@ -1,9 +1,9 @@
 {
     "_manifest": {
-        "name": "Magnify\n(29 August 2024)",
-        "id": "magnify.pages.dev",
+        "name": "Ascension Link Scraper",
+        "id": "Throne.com/Cxsmo",
         "version": 1,
-        "permaUrl": "https:\/\/magnify.pages.dev\/scrapers",
+        "permaUrl": "https://raw.githubusercontent.com/Cxsmo-ai/test/refs/heads/main/vendor.json",
         "cacheServer": " ",
         "type": "express"
     },
