@@ -1,13 +1,13 @@
 {
     "name": "Magnify Vendor",
-    "description": "Experimental provider package\nhttps:\/\/paypal.me\/Jansen122",
-    "website": "https:\/\/magnify.pages.dev",
-    "tutorial": "https:\/\/magnify.pages.dev",
-    "support": "https:\/\/magnify.pages.dev",
+    "description": "Experimental provider package\n Throne.com/Cxsmo",
+    "website": "github.com/Cxsmo-ai",
+    "tutorial": "github.com/Cxsmo-ai",
+    "support": "Throne.com/Cxsmo",
     "packages": [
         {
             "manifest": "https://raw.githubusercontent.com/Cxsmo-ai/test/refs/heads/main/manifest.json",
-            "description": "Experimental provider package\nhttps:\/\/paypal.me\/Jansen122"
+            "description": "Experimental provider package\n Throne.com/Cxsmo"
         }
     ],
     "cacheServers": [
